@@ -9,13 +9,10 @@ body{
     justify-content: center;
     align-items: center;
     font-family: 'Roboto Slab', serif;
- 
-}
-
-.container{  
+ }
+ .container{  
     margin-top: 10em;
     width: 19em;
-
     text-align: center;
     background-color: #FFFFFF;
     padding: 0.5em;
